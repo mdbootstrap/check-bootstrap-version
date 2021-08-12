@@ -12,4 +12,4 @@ You can also review version history by checking Releases log.
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
 */
 ```
-Much more examples and a detailed description can be found at [📄 Address Form documentation page](https://mdbootstrap.com/how-to/bootstrap/check-version/)
+Much more examples and a detailed description can be found at [📄 Documentation page](https://mdbootstrap.com/how-to/bootstrap/check-version/)
